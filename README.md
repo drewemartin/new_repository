@@ -1,2 +1,4 @@
-new_repository
-==============
+##About:
+
+Inclass exercise to learn Git Hub
+
